@@ -5,18 +5,18 @@ sidebar: false
 title: Vite PWA
 
 hero:
-  name: PWA
-  text: Vite Plugin
+  name: UPSC.STUDY
+  text: let's study together✨
   tagline: |
     PWA integrations for Vite and the ecosystem
     Zero-config and framework-agnostic
     PWA Plugin for Vite
   image:
     light:
-      src: /icon_light.svg
+      src: /me-light.png
       alt: Vite PWA Logo
     dark:
-      src: /icon_dark.svg
+      src: /me-dark.png
       alt: Vite PWA Logo
   actions:
     - theme: brand
@@ -28,11 +28,11 @@ hero:
 
 features:
   - icon: 👌
-    title: Zero-Config
-    details: Sensible built-in default configs for common use cases
+    title: Zero check Double Anticlockwise
+    details: Sensible built-in default  for common use cases
   - icon: 🔩
     title: Extensible
-    details: Expose the full ability to customize the behavior of the plugin
+    details: Expose the full ability to  the behavior of the plugin
   - icon: 🔌
     title: Offline Support
     details: Generate Service Worker with Offline support (via Workbox)

@@ -6,7 +6,7 @@ import { teamMembers } from '../../contributors'
 
 <template>
   <div class="content">
-    <div class="content-container">
+    <!-- <div class="content-container">
       <main class="main">
         <div class="vp-doc" flex flex-col items-center mt-10>
           <h2 id="integrations" op70 font-normal p="t-10 b-2">
@@ -47,7 +47,7 @@ import { teamMembers } from '../../contributors'
           </p>
         </div>
       </main>
-    </div>
+    </div> -->
   </div>
 </template>
 

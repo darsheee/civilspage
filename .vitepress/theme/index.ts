@@ -2,8 +2,7 @@ import { h } from 'vue'
 import Theme from 'vitepress/theme'
 import PwaLayout from './PwaLayout.vue'
 
-import './styles/main.css'
-import './styles/vars.css'
+import './styles/index.scss'
 
 import 'uno.css'
 

@@ -9,9 +9,8 @@ const { hasSidebar } = useSidebar()
 <template>
   <div class="VPNavBarTitle" :class="{ 'has-sidebar': hasSidebar }">
     <a class="title" :href="site.base">
-      Vite &#160;
-      <img dark-logo class="logo" src="/icon_dark.svg" alt="Vite PWA dark logo" width="50" height="50">
-      <img light-logo class="logo" src="/icon_light.svg" alt="Vite PWA light logo" width="50" height="50">
+      <img light-logo class="logo" src="/icon_light.svg" alt="Vite PWA light logo" width="20" height="20">      UPSC^STUDY &#160;
+
     </a>
   </div>
 </template>

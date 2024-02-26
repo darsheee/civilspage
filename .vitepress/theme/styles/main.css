@@ -1,4 +1,6 @@
 /* show/hide PWA icon in navbar */
+
+
 .dark [img-light],
 .dark .logo[light-logo] {
   display: none;
@@ -253,5 +255,3 @@ html.dark svg g[stroke-linecap="round"] > g[transform] > path[stroke="#1e1e1e"] 
 .dark::view-transition-old(root) {
   z-index: 9999;
 }
-
-
