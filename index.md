@@ -28,7 +28,7 @@ hero:
 
 features:
   - icon: 👌
-    title: not  working yaarr!!! 
+    title:  check 5hr yaarr!!! 
     details: Sensible built-in default  for common use cases
   - icon: 🔩
     title: Extensible
