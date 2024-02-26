@@ -28,7 +28,7 @@ hero:
 
 features:
   - icon: 👌
-    title: its working!!! 
+    title: not  working yaarr!!! 
     details: Sensible built-in default  for common use cases
   - icon: 🔩
     title: Extensible
