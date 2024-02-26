@@ -28,7 +28,7 @@ hero:
 
 features:
   - icon: 👌
-    title:  check 78thhr yaarr!!! 
+    title:  check FINAL  78thhr !! 
     details: Sensible built-in default  for common use cases
   - icon: 🔩
     title: Extensible
