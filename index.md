@@ -28,7 +28,7 @@ hero:
 
 features:
   - icon: 👌
-    title: Zero check Double Anticlockwise
+    title: Zero check Double check
     details: Sensible built-in default  for common use cases
   - icon: 🔩
     title: Extensible
