@@ -28,7 +28,7 @@ hero:
 
 features:
   - icon: 👌
-    title: Zero check lets check now again
+    title: its working!!! 
     details: Sensible built-in default  for common use cases
   - icon: 🔩
     title: Extensible
