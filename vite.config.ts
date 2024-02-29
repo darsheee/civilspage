@@ -1,7 +1,7 @@
 import { fileURLToPath } from 'node:url'
 import { defineConfig } from 'vite'
 import Components from 'unplugin-vue-components/vite'
-import { presetAttributify, presetUno } from 'unocss'
+
 import Unocss from 'unocss/vite'
 
 export default defineConfig({
@@ -50,8 +50,6 @@ export default defineConfig({
     }),
 
     // https://github.com/unocss/unocss
-    Unocss({
-      presets: [presetUno(), presetAttributify()],
-    }),
+    Unocss(),
   ],
 })

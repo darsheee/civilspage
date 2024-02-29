@@ -66,88 +66,93 @@ export default withPwa(defineConfig({
     },
     nav: [
 
+
+
       { text: 'PYQs Test Series', link: 'https://iles-docs.netlify.app/guide/pwa' },
-
       {
-        text: 'Modern History',
+        text: 'GS I',
         items: [
 
-          { text: 'Advent of Europeans', link: '/upsc-modern-india-history/18c/portuguese' },
-          { text: 'British Expansion', link: '/upsc-modern-india-history/expansion/south' },
-          { text: 'Rise of National Consciousness', link: '/upsc-modern-india-history/transformed-economy-polity-society/rise-indian-nationalism' },
-          { text: 'Early Structure of British Raj (1757 - 1857)', link: '' },
-          { text: 'The Revolt of 1857', link: '' },
-          { text: 'Administrative Changes after 1858', link: '' },
-          { text: 'Popular Uprisings and Revolts', link: '/upsc-modern-india-history/revolt/faraizi-santhal-khond-ramosi' },
-          { text: 'Socio-Religious Reform Movements', link: '/upsc-modern-india-history/socio-religious-reform/wahabi-self-respect-vaikom' },
-          { text: ' Birth of Indian Nationalism', link: '' },
-          { text: 'Political Association', link: '/upsc-modern-india-history/indian-national-movement/political-associations' },
-          { text: 'Partition of Bengal', link: '/upsc-modern-india-history/indian-national-movement/partition-bengal-swadeshi-movement' },
-          { text: 'Emergence of Mahatma Gandhi', link: '/upsc-modern-india-history/indian-national-movement/emergence-mahatma-gandhi' },
-          { text: 'Non-Cooperation Movement', link: 'upsc-modern-india-history/indian-national-movement/khilafat-non-cooperation-movement' },
-          { text: 'Struggle for Swaraj (1919-27)', link: '/upsc-modern-india-history/17.constitutionalREFORMS 1892-1920' },
-          { text: 'Civil Disobedience Movement (1930)', link: '/upsc-modern-india-history/simon-commission-boycott' },
-          { text: 'Freedom with Partition (1939 - 47)', link: '/upsc-modern-india-history/34.Second World War' },
-          { text: '', link: '' },
-          { text: '', link: '' },
-          { text: '', link: '' },
-          { text: '', link: '' },
+          // { text: 'Ancient History', link: '/india-upsc-gs1/ancient-india/0.syllabus-ancient' },
+          // { text: 'Medieval History ', link: '/india-upsc-gs1/medieval-india/' },
+
+          {
+            text: 'Modern History',
+            items: [
+
+              { text: 'Advent of Europeans', link: '/modern-history/18c/portuguese' },
+              { text: 'British Expansion', link: '/modern-history/expansion/south' },
+              // { text: 'Rise of National Consciousness', link: '/modern-history/transformed-economy-polity-society/rise-indian-nationalism' },
+              // { text: 'Early Structure of British Raj ', link: '' },
+              // { text: 'The Revolt of 1857', link: '' },
+              // { text: 'Administrative Changes after 1858', link: '' },
+              { text: 'Popular Uprisings and Revolts', link: '/modern-history/revolt/faraizi-santhal-khond-ramosi' },
+              { text: 'Socio-Religious Reform Movements', link: '/modern-history/socio-religious-reform/wahabi-self-respect-vaikom' },
+              // { text: ' Birth of Indian Nationalism', link: '' },
+              // { text: 'Political Association', link: '/modern-history/indian-national-movement/political-associations' },
+              { text: 'Partition of Bengal', link: '/modern-history/indian-national-movement/partition-bengal-swadeshi-movement' },
+              // { text: 'Emergence of Mahatma Gandhi', link: '/modern-history/indian-national-movement/emergence-mahatma-gandhi' },
+              { text: 'Non-Cooperation Movement', link: 'modern-history/ncm' },
+              // { text: 'Struggle for Swaraj (1919-27)', link: '/modern-history/17.constitutionalREFORMS 1892-1920' },
+              { text: 'Simon Commission', link: '/modern-history/simon-commission-boycott' },
+              { text: 'Civil Disobedience Movement', link: '/modern-history/cdm ' },
+              // { text: 'Freedom with Partition ', link: '/modern-history/34.Second World War' },
+
+
+            ],
+          },
+
+          { text: 'Geography', link: '/india-upsc-gs1/geography/1.geo-tectonics/1.origin of earth' },
+          { text: '', link: '/india-upsc-gs1/' },
+          { text: '', link: '/india-upsc-gs1/' },
+          { text: '', link: '/india-upsc-gs1/' },
+          { text: '', link: '/india-upsc-gs1/' },
+          { text: '', link: '/india-upsc-gs1/' },
+          { text: '', link: '/india-upsc-gs1/' },
 
         ],
       },
-
-      { text: 'Geography', link: '/india-upsc-gs1/geography/1.geo-tectonics/1.origin of earth' },
-      { text: 'Indian Polity', link: '/upsc-gs2/indian-polity/constitutional/1.historical-background' },
-
-      // {
-      //   text: 'General Studies 1',
-      //   items: [
-      //     { text: 'Ancient History', link: '/india-upsc-gs1/ancient-india/0.syllabus-ancient' },
-      //     { text: 'Medieval History ', link: '/india-upsc-gs1/medieval-india/' },
-      //     { text: 'Modern History ', link: '/india-upsc-gs1/modern-india/' },
-      //     { text: '', link: '/india-upsc-gs1/' },
-      //     { text: '', link: '/india-upsc-gs1/' },
-      //     { text: '', link: '/india-upsc-gs1/' },
-      //     { text: '', link: '/india-upsc-gs1/' },
-      //     { text: '', link: '/india-upsc-gs1/' },
-      //     { text: '', link: '/india-upsc-gs1/' },
-
-      //   ],
-      // },
-      // {
-      //   text: 'General Studies 2',
-      //   items: [
-
-      //     { text: '', link: '/upsc-gs2/' },
-
-      //   ],
-      // },
       {
-        text: 'Economics',
+        text: 'GS II',
         items: [
-          { text: 'Planning', link: '/upsc-gs3/indian_economy/1.planning-india' },
-          { text: 'Growth', link: '/upsc-gs3/indian_economy/3.Growth' },
-          { text: 'Fiscal Policy', link: '/upsc-gs3/indian_economy/fiscal-policy' },
-          { text: '', link: '' },
-          { text: 'Syllabus', link: '/upsc-gs3/indian_economy/' },
-          { text: 'Planning', link: '/upsc-gs3/indian_economy/1.planning-india' },
-          { text: 'Employment', link: '/upsc-gs3/indian_economy/5.Employment' },
-          { text: 'Indian Currency System Today', link: '/upsc-gs3/indian_economy/indian-currency-system/indian-currency-system-today' },
+          {
+            text: 'Indian Polity',
+            items: [
 
-          { text: 'Inclusive Growth & Issues', link: '/upsc-gs3/indian_economy/inclusive-growth' },
-          { text: 'Government Budgeting', link: '/upsc-gs3/indian_economy/government-budgeting' },
-          { text: 'India & WTO', link: '/upsc-gs3/indian_economy/international-economic-organisation' },
+              { text: 'Historical ', link: '/upsc-gs2/indian-polity/constitutional/1.historical-background' },
+
+            ],
+          },
+
+          { text: '', link: '/upsc-gs2/' },
+        ],
+      },
+
+      {
+        text: 'GS III',
+        items: [
+
+          {
+            text: 'Economics',
+            items: [
+              { text: 'Planning', link: '/upsc-gs3/indian_economy/1.planning-india' },
+              { text: 'Growth', link: '/upsc-gs3/indian_economy/3.Growth' },
+              { text: 'Fiscal Policy', link: '/upsc-gs3/indian_economy/fiscal-policy' },
+
+              { text: 'Syllabus', link: '/upsc-gs3/indian_economy/' },
+              { text: 'Planning', link: '/upsc-gs3/indian_economy/1.planning-india' },
+              { text: 'Employment', link: '/upsc-gs3/indian_economy/5.Employment' },
+              { text: 'Indian Currency System Today', link: '/upsc-gs3/indian_economy/indian-currency-system/indian-currency-system-today' },
+
+              { text: 'Inclusive Growth & Issues', link: '/upsc-gs3/indian_economy/inclusive-growth' },
+              { text: 'Government Budgeting', link: '/upsc-gs3/indian_economy/government-budgeting' },
+              { text: 'India & WTO', link: '/upsc-gs3/indian_economy/international-economic-organisation' },
+
+            ],
+          },
 
         ],
       },
-      // {
-      //   text: 'General Studies 4',
-      //   items: [
-
-      //     { text: 'Syllabus', link: '/upsc-ias-GS4/' },
-
-      //   ],
-      // },
 
     ],
 
@@ -156,7 +161,7 @@ export default withPwa(defineConfig({
       '/upsc-gs2/indian-polity/constitutional/': [
         {
           text: 'Indian Polity',
-          collapsed: false,
+          collapsed: true,
           items: [
             { text: 'Historical ', link: '/upsc-gs2/indian-polity/constitutional/1.historical-background' },
             { text: 'Making of the Indian Constitution', link: '/upsc-gs2/indian-polity/constitutional/2.making' },
@@ -173,118 +178,118 @@ export default withPwa(defineConfig({
         },
 
       ],
-      '/upsc-modern-india-history/18c': [
+      '/modern-history/18c': [
         {
           text: 'Advent of Europeans',
-          collapsed: false,
+          collapsed: true,
           items: [
-            { text: 'The Portuguese', link: '/upsc-modern-india-history/18c/portuguese' },
-            { text: 'The Dutch', link: '/upsc-modern-india-history/18c/dutch' },
-            { text: 'The English', link: '/upsc-modern-india-history/18c/english' },
-            { text: 'Anglo - Carnatic War', link: '/upsc-modern-india-history/18c/anglo-carnatic' },
-            { text: 'Plassey to Buxar', link: '/upsc-modern-india-history/18c/plassey-buxar' },
-            { text: '', link: '/upsc-modern-india-history/18c/' },
+            { text: 'The Portuguese', link: '/modern-history/18c/portuguese' },
+            { text: 'The Dutch', link: '/modern-history/18c/dutch' },
+            { text: 'The English', link: '/modern-history/18c/english' },
+            { text: 'Anglo - Carnatic War', link: '/modern-history/18c/anglo-carnatic' },
+            { text: 'Plassey to Buxar', link: '/modern-history/18c/plassey-buxar' },
+            { text: '', link: '/modern-history/18c/' },
 
-            { text: '1701 - 1750', link: '/upsc-modern-india-history/1701-1750' },
-            { text: '1751 - 1800', link: '/upsc-modern-india-history/1751-1800' },
+            { text: '1701 - 1750', link: '/modern-history/1701-1750' },
+            { text: '1751 - 1800', link: '/modern-history/1751-1800' },
 
           ],
         },
       ],
 
-      '/upsc-modern-india-history/expansion': [
+      '/modern-history/expansion': [
         {
           text: 'British Expansion & <br> Consolidation',
-          collapsed: false,
+          collapsed: true,
           items: [
-            { text: 'In South India', link: '/upsc-modern-india-history/expansion/south' },
-            { text: 'Beyond Indian Frontiers', link: '/upsc-modern-india-history/expansion/frontiers' },
-            { text: 'In North India', link: '/upsc-modern-india-history/expansion/north' },
+            { text: 'In South India', link: '/modern-history/expansion/south' },
+            { text: 'Beyond Indian Frontiers', link: '/modern-history/expansion/frontiers' },
+            { text: 'In North India', link: '/modern-history/expansion/north' },
 
-            { text: 'Dramatis Personae', link: '/upsc-modern-india-history/personae' },
-            { text: '1600 - 1650', link: '/upsc-modern-india-history/1600-1650' },
-            { text: '1651 - 1700', link: '/upsc-modern-india-history/1651-1700' },
+            { text: 'Dramatis Personae', link: '/modern-history/personae' },
+            { text: '1600 - 1650', link: '/modern-history/1600-1650' },
+            { text: '1651 - 1700', link: '/modern-history/1651-1700' },
           ],
         },
       ],
 
-      '/upsc-modern-india-history/': [
+      '/modern-history/': [
         {
           text: 'Emergence of Mahatma Gandhi',
-          collapsed: false,
+          collapsed: true,
           items: [
 
-            { text: 'Emergence of Gandhi', link: '/upsc-modern-india-history/16.MAHATMA-GANDHI-EMERGENCE' },
-            { text: 'The First World War', link: '/upsc-modern-india-history/13.THE FIRST WORLD WAR' },
+            { text: 'Emergence of Gandhi', link: '/modern-history/16.MAHATMA-GANDHI-EMERGENCE' },
+            { text: 'The First World War', link: '/modern-history/13.THE FIRST WORLD WAR' },
             { text: '', link: '' },
           ],
         },
 
         {
           text: 'Non-Cooperation Movement',
-          collapsed: false,
+          collapsed: true,
           items: [
 
-            { text: 'Non-Cooperation Movement', link: '/upsc-modern-india-history//18.NON-COOPERATION MOVEMENT' },
+            { text: 'Non-Cooperation Movement', link: '/modern-history//18.NON-COOPERATION MOVEMENT' },
             { text: '', link: '' },
           ],
         },
         {
           text: 'Struggle for Swaraj (1919-27)',
-          collapsed: false,
+          collapsed: true,
           items: [
 
-            { text: 'constitutionalReforms 1892-1920', link: '/upsc-modern-india-history/17.constitutionalREFORMS 1892-1920' },
+            { text: 'constitutionalReforms 1892-1920', link: '/modern-history/17.constitutionalREFORMS 1892-1920' },
 
-            { text: 'Caste Movements', link: '/upsc-modern-india-history/20.THE NON-BRAHMIN  MOVEMENT' },
-            { text: 'Swarjists', link: '/upsc-modern-india-history/21.SWARAJISTS' },
+            { text: 'Caste Movements', link: '/modern-history/20.THE NON-BRAHMIN  MOVEMENT' },
+            { text: 'Swarjists', link: '/modern-history/21.SWARAJISTS' },
 
-            { text: 'GROWTH OF COMMUNALISM', link: '/upsc-modern-india-history/22.GROWTH OF COMMUNALISM' },
-            { text: 'NATIONALIST LITERATURE', link: '/upsc-modern-india-history/23.NATIONALIST LITERATURE' },
-            { text: 'REVOLUTIONARY AND TERRORIST MOVEMENT', link: '/upsc-modern-india-history/24.REVOLUTIONARY AND TERRORIST MOVEMENT' },
+            { text: 'GROWTH OF COMMUNALISM', link: '/modern-history/22.GROWTH OF COMMUNALISM' },
+            { text: 'NATIONALIST LITERATURE', link: '/modern-history/23.NATIONALIST LITERATURE' },
+            { text: 'REVOLUTIONARY AND TERRORIST MOVEMENT', link: '/modern-history/24.REVOLUTIONARY AND TERRORIST MOVEMENT' },
 
           ],
         },
         {
           text: 'Civil Disobedience Movement (1930)',
-          collapsed: false,
+          collapsed: true,
           items: [
 
-            { text: 'Simon Commission', link: '/upsc-modern-india-history/simon-commission-boycott' },
-            { text: 'Civil Disobedience Movement', link: '/upsc-modern-india-history/25.CIVIL DOBEDIENCE MOVEMENT' },
+            { text: 'Simon Commission', link: '/modern-history/simon-commission-boycott' },
+            { text: 'Civil Disobedience Movement', link: '/modern-history/25.CIVIL DOBEDIENCE MOVEMENT' },
 
-            { text: ' Socialist Idea in INC', link: '/upsc-modern-india-history/26.SOCIALIST IDEA -INC' },
-            { text: 'Growth of the Left Ideology', link: '/upsc-modern-india-history/27.GROWTH OF THE LEFT' },
-            { text: 'Growth of Trade Union', link: '/upsc-modern-india-history/28.GROWTH OF TRADE UNION' },
+            { text: ' Socialist Idea in INC', link: '/modern-history/26.SOCIALIST IDEA -INC' },
+            { text: 'Growth of the Left Ideology', link: '/modern-history/27.GROWTH OF THE LEFT' },
+            { text: 'Growth of Trade Union', link: '/modern-history/28.GROWTH OF TRADE UNION' },
 
-            { text: 'constitutionalREFORMS  1921-1935', link: '/upsc-modern-india-history/29.constitutionalREFORMS  1921-1935' },
-            { text: 'Election of 1937', link: '/upsc-modern-india-history/30.ELECTIONS OF 1937' },
+            { text: 'constitutionalREFORMS  1921-1935', link: '/modern-history/29.constitutionalREFORMS  1921-1935' },
+            { text: 'Election of 1937', link: '/modern-history/30.ELECTIONS OF 1937' },
 
           ],
         },
 
         {
           text: 'Freedom with Partition <br>(1939 - 47)',
-          collapsed: false,
+          collapsed: true,
           items: [
-            { text: 'Nationalism - 2nd World War', link: '/upsc-modern-india-history/34.Second World War' },
+            { text: 'Nationalism - 2nd World War', link: '/modern-history/34.Second World War' },
 
-            { text: 'Towards Independence', link: '/upsc-modern-india-history/35.TOWARDS-INDEPENDENCE' },
-            { text: 'Communalism & Partition', link: '/upsc-modern-india-history/36.COMMUNALISM' },
+            { text: 'Towards Independence', link: '/modern-history/35.TOWARDS-INDEPENDENCE' },
+            { text: 'Communalism & Partition', link: '/modern-history/36.COMMUNALISM' },
 
           ],
         },
 
       ],
 
-      '/upsc-modern-india-history': [
+      '/modern-history': [
 
         {
           text: 'Rise of <br> National Consciousness',
-          collapsed: false,
+          collapsed: true,
           items: [
 
-            { text: 'National Consciousness', link: '/upsc-modern-india-history/3.RISE-OF-NATIONAL-CONSCIOUSNESS' },
+            { text: 'National Consciousness', link: '/modern-history/3.RISE-OF-NATIONAL-CONSCIOUSNESS' },
 
             { text: '', link: '' },
             { text: '', link: '' },
@@ -293,7 +298,7 @@ export default withPwa(defineConfig({
 
         {
           text: 'Early Structure of British Raj (1757 - 1857)',
-          collapsed: false,
+          collapsed: true,
           items: [
             { text: '', link: '' },
             { text: '', link: '' },
@@ -302,7 +307,7 @@ export default withPwa(defineConfig({
 
         {
           text: 'The Revolt of 1857',
-          collapsed: false,
+          collapsed: true,
           items: [
             { text: '', link: '' },
             { text: '', link: '' },
@@ -311,7 +316,7 @@ export default withPwa(defineConfig({
 
         {
           text: 'Administrative Changes after 1858',
-          collapsed: false,
+          collapsed: true,
           items: [
             { text: '', link: '' },
             { text: '', link: '' },
@@ -319,47 +324,47 @@ export default withPwa(defineConfig({
         },
         {
           text: 'Popular Uprisings and Revolts',
-          collapsed: false,
+          collapsed: true,
           items: [
-            { text: 'Popular Uprisings', link: '/upsc-modern-india-history/7.POPULAR UPRISINGS' },
-            { text: 'Popular Uprisings up to 1857', link: '/upsc-modern-india-history/uprising/faraizi-santhal-khond-ramosi' },
-            { text: 'Popular Uprisings After 1857', link: '/upsc-modern-india-history/uprising/moplah-pabna-deccan-indigo' },
+            { text: 'Popular Uprisings', link: '/modern-history/7.POPULAR UPRISINGS' },
+            { text: 'Popular Uprisings up to 1857', link: '/modern-history/uprising/faraizi-santhal-khond-ramosi' },
+            { text: 'Popular Uprisings After 1857', link: '/modern-history/uprising/moplah-pabna-deccan-indigo' },
           ],
         },
         {
           text: 'Socio-Religious Reform Movements',
-          collapsed: false,
+          collapsed: true,
           items: [
-            { text: 'Social Reforms', link: '/upsc-modern-india-history/8.SOCIAL REFORMS' },
+            { text: 'Social Reforms', link: '/modern-history/8.SOCIAL REFORMS' },
 
           ],
         },
 
         {
           text: ' Birth of Indian Nationalism',
-          collapsed: false,
+          collapsed: true,
           items: [
 
-            { text: 'Formation of INC', link: '/upsc-modern-india-history/9.INDIAN NATIONAL CONGRESS  FORMATION' },
+            { text: 'Formation of INC', link: '/modern-history/9.INDIAN NATIONAL CONGRESS  FORMATION' },
 
           ],
         },
         {
           text: 'Partition of Bengal',
-          collapsed: false,
+          collapsed: true,
           items: [
 
-            { text: 'Moderates & Extremists', link: '/upsc-modern-india-history/10.MODERATES AND EXTREMISTS' },
-            { text: 'Partition of Bengal', link: '/upsc-modern-india-history/11.PARTITION OF BENGAL' },
-            { text: 'Muslim League', link: '/upsc-modern-india-history/12.Muslim-league' },
+            { text: 'Moderates & Extremists', link: '/modern-history/10.MODERATES AND EXTREMISTS' },
+            { text: 'Partition of Bengal', link: '/modern-history/11.PARTITION OF BENGAL' },
+            { text: 'Muslim League', link: '/modern-history/12.Muslim-league' },
 
-            { text: 'Revolutionary Trends', link: '/upsc-modern-india-history/15.REVOLUTIONARY TRENDS' },
+            { text: 'Revolutionary Trends', link: '/modern-history/15.REVOLUTIONARY TRENDS' },
           ],
         },
 
         {
           text: 'RISING RESENTMENT',
-          collapsed: false,
+          collapsed: true,
           items: [
 
           ],
@@ -367,14 +372,14 @@ export default withPwa(defineConfig({
 
         {
           text: 'constitutionalChanges before 1900 ',
-          collapsed: false,
+          collapsed: true,
           items: [
 
           ],
         },
         {
           text: 'constitutionalChanges after 1900 ',
-          collapsed: false,
+          collapsed: true,
           items: [
 
           ],
@@ -382,7 +387,7 @@ export default withPwa(defineConfig({
 
         {
           text: 'The Struggle Begins <br> (1858 -1905)',
-          collapsed: false,
+          collapsed: true,
           items: [
 
           ],
@@ -393,7 +398,7 @@ export default withPwa(defineConfig({
       // '/india-upsc-gs1/ancient-india': [
       //   {
       //     text: '',
-      //      collapsed: false,
+      //      collapsed: true,
       //     items: [
       //       { text: 'Syllabus- Ancient History', link: '/india-upsc-gs1/ancient-india/0.syllabus-ancient' },
       //       { text: '1.Pre-history and Proto-history', link: '/india-upsc-gs1/ancient-india/1.pre-history' },
@@ -433,7 +438,7 @@ export default withPwa(defineConfig({
       // '/india-upsc-gs1/medieval-india': [
       //   {
       //     text: '',
-      //      collapsed: false,
+      //      collapsed: true,
       //     items: [
 
       //       { text: '', link: '/india-upsc-gs1/medieval-india/' },
@@ -448,7 +453,7 @@ export default withPwa(defineConfig({
       // '/india-upsc-gs1/modern-india': [
       //   {
       //     text: '',
-      //      collapsed: false,
+      //      collapsed: true,
       //     items: [
 
       //       { text: '', link: '/india-upsc-gs1/modern-india/' },
@@ -480,7 +485,7 @@ export default withPwa(defineConfig({
 
         {
           text: 'Inculsive Growth & Issues',
-          collapsed: false,
+          collapsed: true,
           items: [
             { text: 'Inclusive Growth', link: '/upsc-gs3/indian_economy/inclusive-growth' },
             { text: 'Poverty', link: '/upsc-gs3/indian_economy/poverty' },
@@ -490,7 +495,7 @@ export default withPwa(defineConfig({
 
         {
           text: 'Govt. Budgeting',
-          collapsed: false,
+          collapsed: true,
           items: [
             { text: 'Government Budgeting', link: '/upsc-gs3/indian_economy/government-budgeting' },
             { text: 'Fiscal Policy', link: '/upsc-gs3/indian_economy/fiscal-policy' },
@@ -506,7 +511,7 @@ export default withPwa(defineConfig({
       '/upsc-gs3/indian_economy/indian-currency-system': [
         {
           text: 'Indian Currency System',
-          collapsed: false,
+          collapsed: true,
           items: [
             { text: 'Indian Currency System Today', link: '/upsc-gs3/indian_economy/indian-currency-system/indian-currency-system-today' },
             { text: 'Sources of Broad Money', link: '/upsc-gs3/indian_economy/indian-currency-system/sources-of-broad-money' },
@@ -524,7 +529,7 @@ export default withPwa(defineConfig({
 
         {
           text: 'Inculsive Growth & Issues',
-          collapsed: false,
+          collapsed: true,
           items: [
             { text: 'Inclusive Growth', link: '/upsc-gs3/indian_economy/inclusive-growth' },
             { text: 'Poverty', link: '/upsc-gs3/indian_economy/poverty' },
@@ -534,7 +539,7 @@ export default withPwa(defineConfig({
 
         {
           text: 'Govt. Budgeting',
-          collapsed: false,
+          collapsed: true,
           items: [
             { text: 'Government Budgeting', link: '/upsc-gs3/indian_economy/government-budgeting' },
             { text: 'Fiscal Policy', link: '/upsc-gs3/indian_economy/fiscal-policy' },
@@ -550,7 +555,7 @@ export default withPwa(defineConfig({
       '/india-upsc-gs1/geography': [
         {
           text: 'Geo-Tectonics',
-          collapsed: false,
+          collapsed: true,
           items: [
 
             { text: 'Past Questions', link: '/india-upsc-gs1/geography/geo-past-questions' },
@@ -564,7 +569,7 @@ export default withPwa(defineConfig({
 
         {
           text: 'Lithosphere',
-          collapsed: false,
+          collapsed: true,
           items: [
 
             { text: 'Earth Crust', link: '/india-upsc-gs1/geography/2.lithosphere/1.materials of the earth crust' },
@@ -577,7 +582,7 @@ export default withPwa(defineConfig({
 
         {
           text: 'Atmosphere',
-          collapsed: false,
+          collapsed: true,
           items: [
 
             { text: 'Structure of Atomsphere', link: '/india-upsc-gs1/geography/3.atmosphere/1.composition & structure of the atmosphere' },
@@ -591,7 +596,7 @@ export default withPwa(defineConfig({
 
         {
           text: 'Hydrosphere',
-          collapsed: false,
+          collapsed: true,
           items: [
 
             { text: 'Introduction', link: '/india-upsc-gs1/geography/4.hydrosphere/1.introduction to hydrosphere' },
@@ -605,7 +610,7 @@ export default withPwa(defineConfig({
 
         {
           text: 'Indian Geography',
-          collapsed: false,
+          collapsed: true,
           items: [
 
             { text: 'Rivers', link: '/india-upsc-gs1/geography/5.Indian Geography/1.rivers in india' },
@@ -620,7 +625,7 @@ export default withPwa(defineConfig({
 
         {
           text: '',
-          collapsed: false,
+          collapsed: true,
           items: [
 
             { text: '', link: '/india-upsc-gs1/geography/' },

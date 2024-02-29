@@ -59,12 +59,14 @@
 }
 
 html:not(.dark) {
-  --vp-c-white: var(--vp-c-default-1);
+   --vp-c-white: var(--vp-c-default-1);
   --vp-c-default-1: #fcf3d9;
   --vp-c-default-2: #f8eccf;
   --vp-c-default-3: #f3e5c3;
   --vp-c-default-soft: #f6e6bf;
-  --vp-c-divider: #e0d2ac80;
+    --vp-c-divider: #e0d2ac80;
+
+    --vp-custom-block-details-bg: #f6e6bf;
 }
 
 html.dark {
