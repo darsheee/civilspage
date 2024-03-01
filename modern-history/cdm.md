@@ -22,6 +22,10 @@ The Civil Disobedience Movement was the next mass movement launched by the Congr
 
 The Civil Disobedience Movement was the next mass movement launched by the Congress after a gap of 8 years and on the withdrawal of Non-cooperation Movement in February 1922. There were several factors that prepared the ground for the CDM, starting from the sudden withdrawal of the Non-Cooperation movement to the non-acceptance of Nehru Report by the British government.
 
+The Civil Disobedience Movement was the next mass movement launched by the Congress after a gap of 8 years and on the withdrawal of Non-cooperation Movement in February 1922. There were several factors that prepared the ground for the CDM, starting from the sudden withdrawal of the Non-Cooperation movement to the non-acceptance of Nehru Report by the British government.
+
+The Civil Disobedience Movement was the next mass movement launched by the Congress after a gap of 8 years and on the withdrawal of Non-cooperation Movement in February 1922. There were several factors that prepared the ground for the CDM, starting from the sudden withdrawal of the Non-Cooperation movement to the non-acceptance of Nehru Report by the British government.
+
 <div  font-serif     text-base	   font-medium hyphens-none leading-normal     tracking-wider subpixel-antialiased>
 
 ## RUN UP TO CIVIL DISOBEDIENCE MOVEMENT (CDM)
