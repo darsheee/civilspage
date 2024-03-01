@@ -17,6 +17,7 @@ onBeforeMount(async () => {
   updateServiceWorker = registerSW({
     immediate: true,
     onNeedRefresh,
+    
   })
 })
 </script>
