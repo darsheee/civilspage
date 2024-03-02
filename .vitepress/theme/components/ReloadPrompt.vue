@@ -5,9 +5,6 @@ const needRefresh = ref(false)
 
 let updateServiceWorker: (() => Promise<void>) | undefined
 
-function onNeedRefresh() {
-  needRefresh.value = true
-}
 async function close() {
   needRefresh.value = false
 }
@@ -16,8 +13,7 @@ onBeforeMount(async () => {
   const { registerSW } = await import('virtual:pwa-register')
   updateServiceWorker = registerSW({
     immediate: true,
-    onNeedRefresh,
-    
+       
   })
 })
 </script>

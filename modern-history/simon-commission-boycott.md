@@ -6,10 +6,9 @@ toc:
 <div  font-serif     text-base	   font-medium hyphens-none leading-normal     tracking-wider subpixel-antialiased>
 
 
-# Simon-Commission & Simon Boycott Movement (1927-29)
 ## 1927
 
-####
+### Simon Commission 
 :::details Simon Commission
 - As per a provision of the Government of India Act 1919, an Indian Statutory Commission (or a Royal Commission) was to be appointed at the end of 10 years (i.e. in 1929) after the passing of the Act, to enquire into the working of the Government of India under the Act Of 1919 and suggest fresh reforms.
 - In other words, the commission was appointed to consider under the terms of the Government of India Act of 1919, whether India was fit to receive a further instalment of constitutional government.
@@ -141,7 +140,7 @@ toc:
  - Lord Birkenhead, the then Secretary of State, justified the exclusion of Indians from Simon Commission on the plea that there were vital differences among various Indian political parties and then threw a challenge to Indians to produce a constitution acceptable to all sections of Indian society.
 
 :::
- ####
+ ### Delhi Proposals
  :::details Delhi Proposals (December 1927)
  - With the aim of bridging the gulf between the Congress and the Muslim League and to enable them to present a common set of demands before the British, a group of prominent Muslim leaders met at Delhi in December 1927 with MA Jinnah presiding over the session.
  - In a dramatic move, the leaders agreed to forego separate electorates, the first and the last time the League agreed to do so, if their four proposals were met.
@@ -155,14 +154,14 @@ toc:
  - The Congress proposals came next in the form of Nehru Report.
 
 :::
- ####
+ ### All Parties Conference 
  :::details  All Parties Conference (presided by Dr. MA Ansari, February 1928)
 - The Indians accepted the challenge and the representatives of the Congress as well as other organizations such as Muslim League, Hindu Mahasabha, etc., met at a conference in February 1928 which came to be known as the All Parties Conference.
 -  In the conference, it was decided that while framing the constitution; the principle of **full Dominion responsible government** should be kept in mind.
 -  The Madras Congress had earlier adopted the goal of complete independence, yet at the All Parties Conference 'fully responsible government based on the model of self- governing Dominions' was accepted as the desired aim.
 -  This was done to gain support of all those organizations which aimed at Dominion status and rally them behind a common plan.
 :::
- ####
+ ###  Nehru Report
  :::details Nehru Report
 - In May 1928, the All Parties Conference (Bombay, presided by Dr. MA Ansari) appointed a sub- committee headed by Motilal Nehru to draft a constitution.
 - Thus, the Nehru Committee was the Indian response to the appointment of Simon Commission and to the challenge of Birkenhead.
@@ -243,6 +242,8 @@ The Nehru Report contained virtually no federal features. Though federal princip
   - 3. In March 1929, Jinnah formulated his **Fourteen Points** which became the text of communal demands and included-federal government, separate electorates, reservation for Muslims in legislatures, reservation of Jobs for Muslims, creation of new Muslim majority provinces, etc.).
 :::
 
+### Jinnah's Fourteen Points
+
 :::details Jinnah's Fourteen Points (March 1929)
 Jinnah formulated the "Fourteen Points" for safeguarding the rights and in terests of the Muslims in any future constitution of the country. He further clarified that no constitution would be acceptable to the Muslims, unless it conformed to those fourteen points (which were basically a reiteration of Jinnah's objections to the Nehru Report). These were:
   - 1. **Federal constitution:** The form of the future constitution should be Federal, with the residuary power vested in the provinces.
@@ -294,8 +295,7 @@ Some other events also kept the political environment of the country stirred. Su
 In May 1929, Labour Party headed by Ramsay MacDonald came to power in Britain. The effective boycott of the Simon Commission had opened many eyes and Viceroy Irwin was called to London for deliberations. Upon his return to India, Irwin famously declared on 31 't October 1929 that as per the new government, natural progression to Dominion Status is implicit in Montagu Declaration of 1917. He also gave assurance of Round Table Conference to enlist the concurrence of all sections in India, as soon as the Simon Commission submitted its report.
 :::
 
-
-
+### DELHI MANIFESTO 
 :::details DELHI MANIFESTO (2ND NOVEMBER 1929)
 Two days later, major national leaders met and issued the Delhi manifesto, demanding that the purpose of Round Table Conference should not be to discuss when Dominion Status would be granted, but to draft a scheme for its implementation. Even though the Viceregal statement was welcomed all round, it soon became a subject of much controversy in the British Parliament. The trend of discussion in the House of Commons showed that the British were against giving Dominion Status to India.
 
@@ -304,7 +304,7 @@ On 23rd December 1929, Irwin, reversing his previous stand, himself told Gandhij
 
 :::
 
- ####
+ ### Congress Adopts Purna Swaraj
  :::details Congress Adopts Purna Swaraj as Goal
 - On 31st December 1929, the annual session of the Congress was held at Lahore, the capital city of Punjab.
 - It was presided over by Pandit Jawaharlal Nehru (son had now succeeded the father, marking a unique family tradition).

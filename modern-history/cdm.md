@@ -11,20 +11,9 @@ head:
 ---
 
 
-# CIVIL DEOBEDIENCE MOVEMENT- 1930-34
-
-
+# CDM 
 <img src="/modern-history/illustration/civil-disobedience-banner-700w.webp
     " alt="" style="max-width:688px; margin: 0 auto; display: grid" async="loading" decoding="async" loading="lazy" />
-
-The Civil Disobedience Movement was the next mass movement launched by the Congress after a gap of 8 years and on the withdrawal of Non-cooperation Movement in February 1922. There were several factors that prepared the ground for the CDM, starting from the sudden withdrawal of the Non-Cooperation movement to the non-acceptance of Nehru Report by the British government.
-
-
-The Civil Disobedience Movement was the next mass movement launched by the Congress after a gap of 8 years and on the withdrawal of Non-cooperation Movement in February 1922. There were several factors that prepared the ground for the CDM, starting from the sudden withdrawal of the Non-Cooperation movement to the non-acceptance of Nehru Report by the British government.
-
-The Civil Disobedience Movement was the next mass movement launched by the Congress after a gap of 8 years and on the withdrawal of Non-cooperation Movement in February 1922. There were several factors that prepared the ground for the CDM, starting from the sudden withdrawal of the Non-Cooperation movement to the non-acceptance of Nehru Report by the British government.
-
-The Civil Disobedience Movement was the next mass movement launched by the Congress after a gap of 8 years and on the withdrawal of Non-cooperation Movement in February 1922. There were several factors that prepared the ground for the CDM, starting from the sudden withdrawal of the Non-Cooperation movement to the non-acceptance of Nehru Report by the British government.
 
 <div  font-serif     text-base	   font-medium hyphens-none leading-normal     tracking-wider subpixel-antialiased>
 
@@ -34,7 +23,7 @@ The Civil Disobedience Movement was the next mass movement launched by the Congr
 - You may recall that during the Congress Session at Calcutta in December 1928, the Congress had given an ultimatum to the British government and had resolved in one voice that in case the government did not accept the Nehru Report by 31st December 1929, the Congress would declare complete independence as its goal and would also launch a civil disobedience movement to achieve that goal.
 :::
 
-:::details  1 Lahore Session of Congress (December 1929)
+:::details  Lahore Session of Congress (December 1929)
 - On the expiry of this grace period, on 31st December 1929, during the annual session of the Congress held at Lahore, the Congress declared Purna Swaraj as its goal and announced the launching of a civil disobedience movement under Gandhiji. In mid-February 1930, the Working Committee met at Sabarmati Ashram and invested Gandhiji with all powers to launch the Civil Disobedience Movement, at a time and place of his choice.
 
 :::
@@ -58,9 +47,9 @@ Many national leaders looked at the Eleven Points as a climb down from the deman
 :::
 
 
-## CIVIL DISOBEDIENCE MOVEMENT (1930 TO 1931)
+## CDM (1930 - 1931)
 
-:::details
+:::details Dandi March
 - Dandi March (12th March to 6th April 1930) Seeing the uncompromising attitude of the government, Gandhi now decided to start the movement. On 12th March 1930, Gandhi started his historic 'Dandi March' from Sabarmati Ashram to Dandi Beach (nearly 375 km or 240 miles), accompanied with 78 followers. On 6th April 1930, Gandhi reached Dandi, picked up a handful of salt and broke the salt law as a symbol of defiance to British laws. Gandhi declared, "The British rule in India has brought about moral, material, cultural and spiritual ruination of this great country. I regard this salt March (1930) rule as a curse. I am out to destroy this system of government. Sedition has become my religion." Subhas Bose had compared the Salt March to Napoleon's March to Paris.
 
 :::
@@ -87,6 +76,19 @@ Many national leaders looked at the Eleven Points as a climb down from the deman
   -  In Malabar:K. Kelappan, the leader of Vaikom Satyagraha, (extreme right) during salt walked from Calicut to Payannur to break the salt law.
   -   In the North-East: A group of satyagrahis walked from Sylhet in Assam to Noakhali in Bengal to make salt and break the law.
   -   In Andhra: Several bands of satyagrahis marched from villages to coast to break the salt law. A number of sibirums (military style camps) were established to function as head offices of salt satygraha.
+<div c grid-cols-2 gap-y-5 gap-x-2 >
+<figure >
+    <img src="/modern-history/illustration/Simon-180w.webp
+    " alt="" style="max-width:180px; margin: 0 auto; display: grid" async="loading" decoding="async" loading="lazy"  />
+    <figcaption> Simon (Chairman) </figcaption>
+</figure>
+<figure >
+     <img src="/modern-history/illustration/Clement_Atlee-180w.webp
+    " alt="">
+    <figcaption> Atlee </figcaption>
+</figure>
+</div>
+
  :::
 
 :::details  Government Repression and Popular Upsurge
@@ -138,6 +140,27 @@ Other Forms of Protest - Various other forms of protest also emerged during this
 
 
 The government struck back through large-scale confiscations of property, yet thousands of peasants stood their ground and the rumour spread that British Raj was coming to an end.
+
+:::
+
+
+:::details Decline of First Phase of CDM
+- Throughout 1930, the government's response had been ambivalent, and repressive measures were carried out after much vacillation. In the meantime, the Simon Commission Report was published (June 1930) and being a regressive document, it further upset even the moderate political opinion.
+- On 9th July 1930, Viceroy Irwin reiterated the suggestion of a Round Table Conference as a conciliatory gesture, and also reiterated the goal of Dominion Status. He also tried to explore possibilities of peace between the Congress and the government. Accordingly, the Nehrus, father and son, were taken to Yerawada jail to meet Gandhi and hammer out a settlement. Gandhi rejected the idea of Congress participating in the RTC, yet the gesture ensured the participation of certain sections of Indian political opinion in London in the month of November 1930. 
+- By September—October 1930, the movement began to show signs of fatigue-peasant and tribal militancy shot up, enthusiasm of merchants fell sharply and many of them broke their earlier pledges of not to sell foreign goods. Support from peasants too declined in the face of large scale confiscations by the government. Almost all leading Congressmen were put behind bars. On the other hand, the revolutionaries were active in full swing and the communists were rallying the labour and organising strikes, making Gandhi increasingly grow apprehensive of anarchy. 
+- In November 1930, the First Round Table Conference, first conference between the Indians and the British as equals, took place in London to discuss the Simon Commission Reports. The Congress boycotted the RTC and its proceedings proved to be quite meaningless. The British government grew anxious to secure Congress participation. Accordingly, on 25th January 1931, the British Prime Minister and the Viceroy of India unconditionally released Gandhiji and the other Indian leaders so that they could meet at the residence of the ailing leader Motilal Nehru and deliberate and agree to participate in the next Round Table. 
+- In this context, Gandhi decided to retreat.
+
+:::
+
+
+### Round Table Confernce
+
+In all, three Round Table Conferences (RTCs-1930, 31 and 32) were held in London to discuss the Indian constitutional question after taking into account all shades of Indian political opinion. The Indian National Congress participated only in the Second Round Table.
+
+:::details   FIRST ROUND TABLE CONFERENCE (LONDON, 12TH NOVEMBER 1930 TO 19TH JANUARY 1931)
+- The First Round Table Conference, the first conference between the Indians and the British as equals, was opened fficially by Lord Irwin on 12th November 1930 in London to cuss the Simon Commission Reports. It was chaired by British 
+- 
 
 :::
 
