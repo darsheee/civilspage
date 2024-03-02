@@ -11,7 +11,7 @@ head:
 ---
 
 
-# CDM 
+# CIVIL DISOBEDIENCE MOVEMENT 
 <img src="/modern-history/illustration/civil-disobedience-banner-700w.webp
     " alt="" style="max-width:688px; margin: 0 auto; display: grid" async="loading" decoding="async" loading="lazy" />
 
