@@ -65,9 +65,7 @@ export default withPwa(defineConfig({
       copyright: 'Copyright © 2021-PRESENT',
     },
     nav: [
-
-
-
+      { text: 'Charts Demo', link: '/examples/charts' },
       { text: 'PYQs Test Series', link: 'https://iles-docs.netlify.app/guide/pwa' },
       {
         text: 'GS I',

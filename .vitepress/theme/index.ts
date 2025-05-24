@@ -1,14 +1,22 @@
 import { h } from 'vue'
-import Theme from 'vitepress/theme'
-import PwaLayout from './PwaLayout.vue'
+import DefaultTheme from 'vitepress/theme'
+import './custom.css'
 
 import './styles/index.scss'
 
 import 'uno.css'
 
+// Import Chart.js styles
+import 'chart.js/auto'
+
 export default {
-  ...Theme,
-  Layout() {
-    return h(PwaLayout)
+  extends: DefaultTheme,
+  Layout: () => {
+    return h(DefaultTheme.Layout, null, {
+      // Add any custom slots here if needed
+    })
   },
+  enhanceApp({ app }) {
+    // Register any global components here if needed
+  }
 }
