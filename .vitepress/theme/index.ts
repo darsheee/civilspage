@@ -9,6 +9,10 @@ import 'uno.css'
 // Import Chart.js styles
 import 'chart.js/auto'
 
+import ChartDemo from '../components/ChartDemo.vue'
+import MermaidDiagram from '../components/MermaidDiagram.vue'
+import CornellNotes from '../components/CornellNotes.vue'
+
 export default {
   extends: DefaultTheme,
   Layout: () => {
@@ -18,5 +22,8 @@ export default {
   },
   enhanceApp({ app }) {
     // Register any global components here if needed
+    app.component('ChartDemo', ChartDemo)
+    app.component('MermaidDiagram', MermaidDiagram)
+    app.component('CornellNotes', CornellNotes)
   }
 }

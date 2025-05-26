@@ -22,6 +22,15 @@ export default defineConfig({
     'r': 'text-red-600 fw700 text-xl',
     'dr': 'text-red-500 underline decoration-double',
     'w': 'decoration-red500	decoration-2 underline-offset-3 underline decoration-wavy',
+    // Cornell Notes shortcuts
+    'cornell-container': 'grid grid-cols-3 gap-8 m-8 p-4 bg-$vp-c-bg-soft rounded-lg',
+    'cornell-cues': 'border-r border-$vp-c-divider pr-4',
+    'cornell-notes': 'border-r border-$vp-c-divider pr-4',
+    'cornell-summary': 'pl-4',
+    'cornell-cue-item': 'p-2 mb-2 bg-$vp-c-bg-soft rounded cursor-pointer transition-all duration-300 hover:bg-$vp-c-brand-soft',
+    'cornell-section': 'mb-8 p-4 bg-$vp-c-bg rounded',
+    'cornell-title': 'text-lg font-bold mb-4',
+    'cornell-subtitle': 'font-semibold mb-2',
   },
   presets: [
     presetUno(),

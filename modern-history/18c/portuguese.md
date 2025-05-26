@@ -1,5 +1,8 @@
 <div  font-serif text-base	 font-medium hyphens-none leading-normal tracking-wider subpixel-antialiased>
 
+
+
+
 # First - The Portuguese
 
 ### Early Efforts
