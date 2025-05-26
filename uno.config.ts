@@ -31,6 +31,16 @@ export default defineConfig({
     'cornell-section': 'mb-8 p-4 bg-$vp-c-bg rounded',
     'cornell-title': 'text-lg font-bold mb-4',
     'cornell-subtitle': 'font-semibold mb-2',
+    // Cornell Notes custom shortcuts
+    'cornell-header': 'grid grid-cols-1 md:grid-cols-3 gap-4 border-b-2 border-green-600 dark:border-green-400 p-4 bg-green-50 dark:bg-green-900',
+    'cornell-label': 'font-semibold text-gray-700 dark:text-gray-200',
+    'cornell-value': 'flex-1 border-b border-green-400 dark:border-green-600 pb-0.5',
+    'cornell-notes': 'md:w-2/3 border-b md:border-b-0 md:border-r-2 border-green-200 dark:border-green-700 p-6',
+    'cornell-summary': 'md:w-1/3 p-6 bg-green-50 dark:bg-green-900 border-t md:border-t-0 md:border-l-2 border-green-200 dark:border-green-700 flex flex-col justify-between',
+    'cornell-section': 'space-y-6 text-base',
+    'cornell-title': 'text-lg font-bold mb-4 text-green-700 dark:text-green-300',
+    'cornell-highlight': 'font-semibold text-blue-600 dark:text-blue-300',
+    'cornell-note-entry': 'border-b-2 border-green-400 dark:border-green-600 last:border-none',
   },
   presets: [
     presetUno(),
