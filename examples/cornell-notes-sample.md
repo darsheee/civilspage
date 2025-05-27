@@ -1,7 +1,7 @@
 :::details Photosynthesis
 <div class="cornell-container">
   <!-- Header -->
-  <div class="cornell-header">
+  <!-- <div class="cornell-header">
     <div class="cornell-header-row">
       <div class="flex items-center">
         <span class="cornell-label">Name:</span>
@@ -16,7 +16,7 @@
         <span class="cornell-value">Biology - Photosynthesis</span>
       </div>
     </div>
-  </div>
+  </div> -->
 
   <!-- Main Content -->
   <div class="cornell-main">
