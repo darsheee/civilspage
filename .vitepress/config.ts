@@ -66,7 +66,25 @@ export default withPwa(defineConfig({
     },
     nav: [
       { text: 'Charts Demo', link: '/examples/charts' },
-      { text: 'PYQs Test Series', link: 'https://iles-docs.netlify.app/guide/pwa' },
+      { text: 'Prelims', link: '' },
+      { text: 'Mains',
+        items: [ 
+          { text: 'General Studies I',
+            items: [
+              { text: 'Ancient History', link: '/india-upsc-gs1/ancient-india/0.syllabus-ancient' },
+              { text: 'Medieval History ', link: '/india-upsc-gs1/medieval-india/' },
+              { text: 'Modern History', link: '/modern-history/18c/portuguese' },
+              { text: 'Geography', link: '/india-upsc-gs1/geography/1.geo-tectonics/1.origin of earth' },
+            ],
+           },
+
+
+          { text: 'General Studies II', link: '' },
+          { text: 'General Studies III', link: '' },
+          { text: 'General Studies IV', link: '' },
+        ],
+      },
+
       {
         text: 'GS I',
         items: [
